@@ -20,3 +20,5 @@ This repository contains my hands-on practice in:
 - Selenium
 - Postman
 - GitHub
+## Authore
+- Chinmayii
