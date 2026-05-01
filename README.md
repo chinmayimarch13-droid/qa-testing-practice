@@ -10,6 +10,7 @@ This repository contains my hands-on practice in:
 
 - Login Testing
 - Bug Reporting
+- Manual testing
 - Test Case Writing
 - Selenium Login Automation
 - API GET Request Testing
